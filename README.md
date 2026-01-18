@@ -1,2 +1,1 @@
-# error_handling_ingolang
-# error_handling_ingolang
+this section is cover by error example of learnig go book
